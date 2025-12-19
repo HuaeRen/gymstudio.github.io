@@ -1,0 +1,24 @@
+---
+layout :      post
+title:       “《写给十年后的自己》”
+author :     “友友”
+
+header-style: text
+catalog:      true
+tags:         
+	-Web
+	-JavaScript
+---
+
+
+这里开始写内容......
+
+这是关于一封信
+<a name="youyou"></a>
+### 一级标题
+推荐续写[写给十年后的自己]（使用markdown语法）
+<a name="youyou"></a>
+### 一级标题
+javascript 漂流瓶飘到了你这里......
+
+-youyou网站编写活跃成员。
