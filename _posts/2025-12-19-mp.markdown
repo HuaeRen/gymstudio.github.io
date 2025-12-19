@@ -1,24 +1,16 @@
 ---
-layout :      post
-title:       “《写给十年后的自己》”
-author :     “友友”
-
+layout:       post
+title:        "《十年》"
+author:       "youyou"
 header-style: text
 catalog:      true
-tags:         
-	-Web
-	-JavaScript
+tags:
+    - Web
+    - JavaScript
 ---
 
+> 这是一篇关于十年的话题 
 
-这里开始写内容......
+十年漂流瓶飘到了哪里......
 
-这是关于一封信
-<a name="youyou"></a>
-### 一级标题
-推荐续写[写给十年后的自己]（使用markdown语法）
-<a name="youyou"></a>
-### 一级标题
-javascript 漂流瓶飘到了你这里......
-
--youyou网站编写活跃成员。
+— 友友，Facebook 工程师（网络runoob）、中文前端社区活跃成员。
